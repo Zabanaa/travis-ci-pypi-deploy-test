@@ -12,7 +12,7 @@ def long_desc(root_path):
 
 
 setup(
-    name="travis-ci-pypi-deploy-test",
+    name="zabana-travis-ci-test",
     description="A Python package to test the Travis-CI PyPI deploy.",
     long_description=long_desc(here),
     license="MIT license",
