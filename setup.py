@@ -18,7 +18,7 @@ setup(
     license="MIT license",
     author="Jannis Leidel",
     author_email="jannis@leidel.info",
-    url="https://github.com/jezdez/travis-ci-pypi-deploy-test",
+    url="https://github.com/zabanaa/travis-ci-pypi-deploy-test",
     version='0.1',
     py_modules=['travis_ci_pypi_deploy_test'],
 )
