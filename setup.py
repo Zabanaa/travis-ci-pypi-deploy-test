@@ -16,7 +16,7 @@ setup(
     description="A Python package to test the Travis-CI PyPI deploy.",
     long_description=long_desc(here),
     license="MIT license",
-    author="Jannis Leidel",
+    author="Karim C",
     author_email="jannis@leidel.info",
     url="https://github.com/zabanaa/travis-ci-pypi-deploy-test",
     version='0.1.1',
