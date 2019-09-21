@@ -19,6 +19,6 @@ setup(
     author="Jannis Leidel",
     author_email="jannis@leidel.info",
     url="https://github.com/zabanaa/travis-ci-pypi-deploy-test",
-    version='0.1',
+    version='0.1.1',
     py_modules=['travis_ci_pypi_deploy_test'],
 )
